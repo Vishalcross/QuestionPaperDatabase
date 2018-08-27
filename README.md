@@ -1,7 +1,7 @@
 # Quick Quiz Generator
 ### This java program can be used to store a database of questions and create a random question paper consisting of 3 different types of questions
 
-# Features
+## Features
 <ul>
 <li> You can create and store Multiple Choice(Upto 4 choices), Fill in the blanks and True/False type questions.
 <li> You can have any number of subjects and therefore this can work as a versatile question bank.
@@ -11,5 +11,5 @@
 <li> Each quiz will have a mixed bag of questions from the subject.
 </uL>
 
-# How to use
+## How to use
 Download all the files and store it in a folder, download sqlite and keep the executable in the same folder. Compile and run GUI.java after you have compiled Auth.java and Database.java.
