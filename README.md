@@ -10,5 +10,6 @@
 <li> You can view the quiz that is generated, or look at the answers to them.
 <li> Each quiz will have a mixed bag of questions from the subject.
 </uL>
+
 # How to use
 Download all the files and store it in a folder, download sqlite and keep the executable in the same folder. Compile and run GUI.java after you have compiled Auth.java and Database.java.
